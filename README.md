@@ -19,13 +19,13 @@ It provides real-time word and character count for any text input — perfect fo
 
 - ⚛️ React.js (with useState)
 - 💅 CSS3
-- 🌐 Vite / Create React App *(whichever you used)*
+- 🌐 Vite 
 
 ---
 
 ## 📸 Screenshot
 
-(main.png)
+![Screenshot](main.png)  
 ![Screenshot](screenshot.png)  
 *Replace this with a real screenshot of your app*
 
