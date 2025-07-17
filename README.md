@@ -27,6 +27,5 @@ It provides real-time word and character count for any text input — perfect fo
 
 ![Screenshot](main.png)  
 ![Screenshot](screenshot.png)  
-*Replace this with a real screenshot of your app*
 
 ---
